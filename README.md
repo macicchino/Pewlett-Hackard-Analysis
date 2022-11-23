@@ -5,6 +5,14 @@ Pewlett-Hackard-Analysis - Module 7
 
 The purpose of the new analysis is well defined. (3 pt)
 
+### The number of Retiring Employees by Title 
+
+
+![Retire_by_title](images/Number_by_title.png "Number of Retiring Employees by Title")
+
+
+![Retire_](insert.png "Number...")
+
 ## Results:
 
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
