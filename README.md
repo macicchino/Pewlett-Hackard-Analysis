@@ -17,7 +17,7 @@ As shown in the image below, a significant number of 'Senior Engineers' and 'Sen
 
 
 
-![Retire_](insert.png "Number...")
+![Mentorship_Eligibility](Mentorship_Eligibility.png "Mentorship Eligibility")
 
 ## Results:
 
