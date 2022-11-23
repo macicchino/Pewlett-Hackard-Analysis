@@ -1,9 +1,10 @@
-# Pewlett-Hackard-Analysis
-Pewlett-Hackard-Analysis - Module 7
+# Pewlett-Hackard-Analysis - Module 7
 
 ## Overview of the analysis:
 
-The purpose of the new analysis is well defined. (3 pt)
+### Purpose of Analysis
+
+To determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
 ### The number of Retiring Employees by Title 
 
@@ -16,6 +17,14 @@ The purpose of the new analysis is well defined. (3 pt)
 ## Results:
 
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+
+1.
+
+2.
+
+3.
+
+4.
 
 ## Summary:
 
