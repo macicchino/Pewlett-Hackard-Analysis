@@ -4,12 +4,17 @@
 
 ### Purpose of Analysis
 
-To determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
+  1. To determine the number of retiring employees per title.
+  2. Identify employees who are eligible to participate in a mentorship program.
 
 ### The number of Retiring Employees by Title 
 
+As shown in the image below, a significant number of 'Senior Engineers' and 'Senior Staff' are at retirement age. This shows the most vulnrable positions (Titles) for the expected 'Silver Tsunami'.
 
 ![Retire_by_title](images/Number_by_title.png "Number of Retiring Employees by Title")
+
+### Employees Eligable to Participate in a Mentorship Program
+
 
 
 ![Retire_](insert.png "Number...")
