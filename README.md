@@ -17,7 +17,7 @@ As shown in the image below, a significant number of 'Senior Engineers' and 'Sen
 
 
 
-![Mentorship_Eligibility](Mentorship_Eligibility.png "Mentorship Eligibility")
+![Mentorship_Eligibility](images/Mentorship_Eligibility.png "Mentorship Eligibility")
 
 ## Results:
 
