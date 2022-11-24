@@ -47,4 +47,6 @@ I think the number of employees nearing retirement age should be a focus of uppe
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 -
 
+![Mentorship_by_title](images/Mentor_by_title.png "Mentorship Eligibility Titles")
+![Mentorship_total](images/Mentor_total.png "Mentorship Eligibility Total")
 
