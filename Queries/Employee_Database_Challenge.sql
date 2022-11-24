@@ -72,5 +72,20 @@ SELECT * FROM mentorship_elig;
 -- SELECT * FROM mentorship_elig;
 
 
+---- ANALYSIS - SUBMISSION
 
+-- View Table to show retiring employees sum
+SELECT SUM(count)
+FROM title_retire_table;
+
+-- Create Table to show elibible employees count
+SELECT COUNT(me.title), me.title
+-- INTO mentor_elig_count
+FROM mentorship_elig as me
+GROUP BY me.title 
+ORDER BY me.count DESC;
+
+-- Create Table to show elibible employees sum
+SELECT SUM(count)
+FROM mentor_elig_count;
 
