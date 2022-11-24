@@ -36,7 +36,8 @@ In order to prepare for the upcoming retirements of many employees, management i
 I think the number of employees nearing retirement age should be a focus of upper management. Specifically, for the roles of 'Senior Engineers' and 'Senior Staff'. Management should consider hiring additional employees at slightly lower/equivalent roles to eventually fill those positions. For employees not immeadiatly expected to retire, proposing the mentorship program will provide a smoother transition in the work force as employees retire. 
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- 
+- The "Silver Tsunami" should expect 72,458 people to retire soon. 
+- -
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 -
