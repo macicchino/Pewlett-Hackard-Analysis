@@ -42,11 +42,11 @@ I think the number of employees nearing retirement age should be a focus of uppe
         SELECT SUM(count)
         FROM title_retire_table;
 
-![Retire_total](images/Retire_total.png "Retirement Total")
+  - ![Retire_total](images/Retire_total.png "Retirement Total")
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
-- 
+- No, there is a significant difference between 'Retiring Employees' (Birth Year 1952-1956) and 'Mentorship Eligible Employees' (Birth Year 1965). 
 
-![Mentorship_by_title](images/Mentor_by_title.png "Mentorship Eligibility Titles")
-![Mentorship_total](images/Mentor_total.png "Mentorship Eligibility Total")
+  - ![Mentorship_by_title](images/Mentor_by_title.png "Mentorship Eligibility Titles")
+  - ![Mentorship_total](images/Mentor_total.png "Mentorship Eligibility Total")
 
