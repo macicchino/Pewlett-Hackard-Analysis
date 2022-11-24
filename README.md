@@ -27,9 +27,9 @@ In order to prepare for the upcoming retirements of many employees, management i
 
 2.
 
-3.
+3. The total number of eligible employees for the mentorship program is significantly lower than the employees expected to retire. 
 
-4.
+4. 
 
 ## Summary:
 
@@ -42,11 +42,23 @@ I think the number of employees nearing retirement age should be a focus of uppe
         SELECT SUM(count)
         FROM title_retire_table;
 
-  - ![Retire_total](images/Retire_total.png "Retirement Total")
+   ![Retire_total](images/Retire_total.png "Retirement Total")
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
-- No, there is a significant difference between 'Retiring Employees' (Birth Year 1952-1956) and 'Mentorship Eligible Employees' (Birth Year 1965). 
+- No, there is a significant difference between 'Retiring Employees' (Birth Year 1952-1956) and 'Mentorship Eligible Employees' (Birth Year 1965). 'Retiring Empoyees' total 72,458 as shown above. The total 'Mentorship Eligible Employees' is only 1,549, that means there is a 70,909 expected employee deficit. Using the SQL query below, I created a new table to identify the titles of 'Mentorship Eligible Employees'. I then used another SQL query to sum the total counts of 'Mentorship Eligible Employees'. 
+- The company should consider a significant hiring increase. The company should also expand the contraints for the mentorship program from only the Birth Year 1965, to a range such as Birth Year 1963-1968. 
 
-  - ![Mentorship_by_title](images/Mentor_by_title.png "Mentorship Eligibility Titles")
-  - ![Mentorship_total](images/Mentor_total.png "Mentorship Eligibility Total")
+      -- Create Table to show elibible employees count
+      SELECT COUNT(me.title), me.title
+      -- INTO mentor_elig_count
+      FROM mentorship_elig as me
+      GROUP BY me.title 
+      ORDER BY me.count DESC;
+
+      -- Create Table to show elibible employees sum
+      SELECT SUM(count)
+      FROM mentor_elig_count;
+
+   ![Mentorship_by_title](images/Mentor_by_title.png "Mentorship Eligibility Titles")
+   ![Mentorship_total](images/Mentor_total.png "Mentorship Eligibility Total")
 
