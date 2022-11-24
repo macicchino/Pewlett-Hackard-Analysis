@@ -37,7 +37,7 @@ I think the number of employees nearing retirement age should be a focus of uppe
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - The "Silver Tsunami" should expect 72,458 people to retire soon. 
-- -
+ -
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 -
