@@ -23,13 +23,13 @@ In order to prepare for the upcoming retirements of many employees, management i
 
 ### Results - Key Points
 
-1. The titles 'Senior Engineers' and 'Senior Staff' have the most employees at retirement age. 
+1. The titles 'Senior Engineers' and 'Senior Staff' have the most employees at retirement age at 25,916 and 24,926 respectively. 
 
-2.
+2. The total number of Employees expected to retire is 72,458. 
 
-3. The total number of eligible employees for the mentorship program is significantly lower than the employees expected to retire. 
+3. The total number of eligible employees for the mentorship program is highest for the titles of 'Senior Engineer' and 'Staff'.
 
-4. 
+4. The total number of eligible employees for the mentorship program is significantly lower than the employees expected to retire. The total eligible employees is only 1,549. Management should expand the age eligibility for the mentorship program. 
 
 ## Summary:
 
